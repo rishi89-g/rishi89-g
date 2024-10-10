@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django, Flutter**
 
-- 📫 How to reach me **rishirajgir333@gmail.com**
+- 📫 How to reach me **rishirajgiri333@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
